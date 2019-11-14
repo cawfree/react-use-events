@@ -1,0 +1,21 @@
+{
+  "name": "react-use-events",
+  "version": "0.0.1",
+  "keywords": [
+    "react",
+    "react-native",
+    "hooks",
+    "use",
+    "event",
+    "events"
+  ],
+  "description": "Simple react hooks for event handling.",
+  "main": "index.js",
+  "repository": "https://github.com/cawfree/react-use-events",
+  "author": "Alex Thomas (@cawfree) <hello@cawfree.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "uuid": "^3.3.3"
+  }
+}
